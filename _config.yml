@@ -1,0 +1,10 @@
+title: "한국 스마트 재테크 & 금융 정보"
+description: "시중은행 예적금 특판, 주담대·신용대출 금리 비교 및 절세(ISA/연금저축) 실전 가이드."
+url: "https://finance-kr.enjoy-onepage.com"
+baseurl: ''
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
